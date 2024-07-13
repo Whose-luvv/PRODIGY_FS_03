@@ -1,18 +1,11 @@
-# E-Commerce Application
- 
+# Local Store E-Commerce Platfoarm
 
-## Table of contents
-* [Description](#Description)
-* [Features](#Features)
-* [Technologies used](#Technologies)
-* [Demo Working](#Demo)
-
-## Description
+# Description
 This project has two interfaces, one for Admin who can add products, update them, view orders, and also deliver them, and the other for the common user who can view products, 
 add them to the cart, and also purchase them.
 
 
-## Features
+# Features
 * Authentication with JWT.
 * Forgot Password (OTP is sent to the registered mail) - NodeMailer.
 * Add Products , new Collection , update them , view orders , edit orders - Admin Functionalites.
@@ -21,18 +14,11 @@ add them to the cart, and also purchase them.
 * Purchase Product.
 * Check previous product history.
 	
-## Technologies
-#### Project is created with:
+# Technologies
+# Project is created with:
 * Frontend - React
 * Server - Node and Express (API Endpoint)
 * Database - Mongo DB
-
-
-#### Deployment:
-* Node Application (Server) is hosted in heroku.
-* React Application (Frontend) is hosted in firebase.
-
-
 	
 ## Demo
 Demo Working of our Project - https://shopify-cloths.web.app/
