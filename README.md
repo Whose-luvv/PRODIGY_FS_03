@@ -19,9 +19,6 @@ add them to the cart, and also purchase them.
 * Frontend - React
 * Server - Node and Express (API Endpoint)
 * Database - Mongo DB
-	
-## Demo
-Demo Working of our Project - https://shopify-cloths.web.app/
 
 ##### Admin Dashboard Preview 
 
